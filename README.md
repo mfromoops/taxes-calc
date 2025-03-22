@@ -2,7 +2,7 @@
 
 A TypeScript utility that calculates effective tax rates for Federal, California, and Puerto Rico tax systems.
 
-This calculator was built using Vibe Coding on Cursor.
+This calculator was Vibe Coded on Cursor.
 
 ## Features
 
