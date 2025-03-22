@@ -1,0 +1,26 @@
+{
+  "name": "taxes-calc",
+  "version": "1.0.0",
+  "description": "Tax calculator comparing rates across multiple jurisdictions",
+  "main": "app.ts",
+  "type": "module",
+  "scripts": {
+    "start": "bun app.ts",
+    "build": "tsc",
+    "dev": "bun --watch app.ts"
+  },
+  "keywords": [
+    "taxes",
+    "calculator",
+    "comparison"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bun-types": "latest",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/node": "^20.0.0"
+  }
+}
